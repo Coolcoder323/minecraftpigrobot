@@ -10,7 +10,7 @@ This project utilizes the following open-source software components:
 ## 2. Hardware and 3D Designs
 The physical components and structural designs are derived from or inspired by the following sources:
 * **Minecraft Intellectual Property:** Asset designs, color schemes, and boxy geometry are inspired by the video game Minecraft, owned by Mojang Synergies AB and Microsoft Corporation.
-* [Insert 3D Model Name]: If you downloaded a specific pig chassis model from Thingiverse, Printables, or GitHub, list the creator's name, the license they used, and the link to their original file here.
+* robopig.stl: If you downloaded a specific pig chassis model from Thingiverse, Printables, or GitHub, list the creator's name, the license they used, and the link to their original file here.
 
 ## 3. Special Thanks
 * Acknowledgment to the global maker and Arduino developer communities for open-source documentation and testing frameworks.
