@@ -5,6 +5,9 @@
 This repository contains the source code, schematics, and 3D printable files for an autonomous robot designed to resemble a pig from the video game Minecraft. The goal of this project is to provide an open-source, educational framework combining robotics, microcontrollers, and 3D printing.
 
 
+#tecnical documentation
+
+this project uses a arduino giga paired with 4 pir sennsor 9g servos and a pca95 servo driver
 
 ## Legal Framework and Licensing
 
